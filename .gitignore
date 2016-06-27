@@ -1,0 +1,4 @@
+*.xml
+*.txml
+*.pack
+.vagrant*
