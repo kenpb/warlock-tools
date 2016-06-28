@@ -3,3 +3,4 @@
 *.pack
 .vagrant*
 vagrant*
+pack-folder*
